@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run YOLO Worker (Supabase)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/worker/detect_supabase.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/worker/.env"
+    }
+  ]
+}

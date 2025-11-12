@@ -1,0 +1,12 @@
+﻿*.pt
+*.pth
+runs/
+salidas_base/
+salidas_mejoradas/
+evidencias/
+val_plots/
+.env
+.venv/
+venv/
+__pycache__/
+*.log

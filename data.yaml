@@ -1,0 +1,15 @@
+# data.yaml — configuración del dataset de papa
+path: C:/Users/USUARIO/OneDrive - Escuela Militar de Ingenieria/Desktop/Dataset_papa
+
+train: images/train
+val: images/val
+test: images/test  # opcional, si tienes esta carpeta
+
+names:
+  0: Bacterias
+  1: Gorgojo
+  2: Hongo
+  3: Nematodo
+  4: Minadores
+  5: Phytophthora
+  6: Saludable
